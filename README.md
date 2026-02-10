@@ -31,3 +31,4 @@ dependence on cloud connectivity.
 ✔ System architecture implemented  
 ✔ Inference pipeline tested  
 🔄 Model refinement ongoing
+
